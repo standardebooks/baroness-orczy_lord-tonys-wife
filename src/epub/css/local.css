@@ -16,14 +16,13 @@
 /* All dedications */
 section[epub|type~="dedication"]{
 	text-align: center;
-	text-indent: 0;
 }
 
 section[epub|type~="dedication"] > *{
 	display: inline-block;
 	margin: auto;
 	margin-top: 3em;
-/*	max-width: 80%; */
+	max-width: 80%;
 }
 
 @supports(display: flex){

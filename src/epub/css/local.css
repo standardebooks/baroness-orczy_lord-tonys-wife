@@ -16,6 +16,7 @@
 /* All dedications */
 section[epub|type~="dedication"]{
 	text-align: center;
+	text-indent: 0;
 }
 
 section[epub|type~="dedication"] > *{

@@ -49,14 +49,15 @@
 		<meta id="collection-1" property="belongs-to-collection">Scarlet Pimpernel</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">6</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A young woman and her father are kidnapped by a man intent on revenge for his father’s death.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;In the midst of the French Revolution, Pierre, a young firebrand, convinces a group of rabble to rise up against the local duc. Coming across the carriage of the duc’s daughter on their march, Pierre assaults her, is run over by the carriage, and disappears. Looking to punish someone for the uprising, the duc has Pierre’s father hanged.&lt;/p&gt;
+			&lt;p&gt;Years later, Pierre has changed his name, gathered some wealth, and ingratiated himself with the duc (who does not know him). Pierre has plans to avenge his father’s death against both the duc and his daughter, and he has enlisted the aid of Chauvelin, the Scarlet Pimpernel’s avowed enemy. The Pimpernel will have all he can handle if he is to foil Pierre’s plans.&lt;/p&gt;
+			&lt;p&gt;Although published a few years after &lt;a href="https://standardebooks.org/ebooks/baroness-orczy/el-dorado"&gt;&lt;i&gt;El Dorado&lt;/i&gt;&lt;/a&gt;, this sixth book in the series is set prior to it in the timeline.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/35117</dc:source>
 		<dc:source>https://archive.org/details/lordtonyswifean01orczgoog/page/n245/mode/2up</dc:source>
-		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Lord_Tony%27s_Wife</meta>

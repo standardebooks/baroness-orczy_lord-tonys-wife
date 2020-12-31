@@ -2,7 +2,7 @@
 @namespace epub "http://www.idpf.org/2007/ops";
 
 /* custom dedication */
-[epub|type~="dedication"] > footer{
+section[epub|type~="dedication"] > footer{
 	margin-top: 1em;
 	text-align: right;
 }

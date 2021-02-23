@@ -49,8 +49,8 @@ section[epub|type~="dedication"] > *{
 
 [epub|type~="z3998:poem"] p > span{
 	display: block;
-	text-indent: -1em;
 	padding-left: 1em;
+	text-indent: -1em;
 }
 
 [epub|type~="z3998:poem"] p > span + br{
@@ -58,7 +58,7 @@ section[epub|type~="dedication"] > *{
 }
 
 p span.i3{
-	text-indent: -1em;
 	padding-left: 3em;
+	text-indent: -1em;
 }
 /* end of poem/verse/song */

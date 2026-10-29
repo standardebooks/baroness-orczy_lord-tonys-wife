@@ -6,4 +6,9 @@
 			<reason>The missing quote is due to a someone speaking across multiple paragraphs.</reason>
 		</ignore>
 	</file>
+	<file path="content.opf">
+		<ignore code="m-103">
+			<reason>Baroness Orczy is the author’s established pen name.</reason>
+		</ignore>
+	</file>
 </se-lint-ignore>
